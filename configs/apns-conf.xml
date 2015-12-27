@@ -23,7 +23,7 @@
 
 <apns version="8">
 
-    <!-- Greece ?? -->
+    <!-- Greece 希腊 -->
     <apn carrier="Cosmote Mms"
         mcc="202"
         mnc="01"
@@ -689,7 +689,7 @@
         user="wap@wap"
     />
 
-    <apn carrier="Orange Internet M�vil"
+    <apn carrier="Orange Internet Móvil"
         mcc="214"
         mnc="03"
         apn="orangeworld"
@@ -3194,7 +3194,7 @@
         type="mms"
     />
 
-    <!-- Germany ?? -->
+    <!-- Germany 德国 -->
     <apn carrier="T-Mobile Internet"
         mcc="262"
         mnc="01"
@@ -4032,7 +4032,7 @@
         type="default,supl,mms"
     />
 
-    <!-- United States ?? -->
+    <!-- United States 美国 -->
     <apn carrier="Internet"
         mcc="310"
         mnc="030"
@@ -4857,7 +4857,7 @@
         user=""
     />
 
-    <apn carrier="Orange MMS Cara�be"
+    <apn carrier="Orange MMS Caraïbe"
         mcc="340"
         mnc="01"
         apn="orangewap"
@@ -4878,7 +4878,7 @@
         user="orange"
     />
 
-    <apn carrier="Orange World Cara�be"
+    <apn carrier="Orange World Caraïbe"
         mcc="340"
         mnc="01"
         apn="orangewap"
@@ -18617,7 +18617,7 @@
         type="default,supl"
     />
 
-    <apn carrier="b-mobile 3G?4G 1GB/Fair"
+    <apn carrier="b-mobile 3G・4G 1GB/Fair"
         mcc="440"
         mnc="10"
         apn="bmobile.ne.jp"
@@ -18628,7 +18628,7 @@
         user="bmobile@fr"
     />
 
-    <apn carrier="b-mobile 3G?4G U300"
+    <apn carrier="b-mobile 3G・4G U300"
         mcc="440"
         mnc="10"
         apn="bmobile.ne.jp"
@@ -18639,7 +18639,7 @@
         user="bmobile@u300"
     />
 
-    <apn carrier="b-mobile 4G ?????SIM"
+    <apn carrier="b-mobile 4G カメレオンSIM"
         mcc="440"
         mnc="10"
         apn="bmobile.ne.jp"
@@ -18650,7 +18650,7 @@
         user="bmobile@cm"
     />
 
-    <apn carrier="b-mobile ?????"
+    <apn carrier="b-mobile スマホ電話"
         mcc="440"
         mnc="10"
         apn="bmobile.ne.jp"
@@ -19416,15 +19416,15 @@
         authtype="2"
     />
 
-    <!-- China ?? -->
-    <apn carrier="???? (China Mobile) GPRS"
+    <!-- China 中国 -->
+    <apn carrier="中国移动 (China Mobile) GPRS"
         mcc="460"
         mnc="00"
         apn="cmnet"
         type="default,supl"
     />
 
-    <apn carrier="???? (China Mobile) WAP"
+    <apn carrier="中国移动 (China Mobile) WAP"
         mcc="460"
         mnc="00"
         apn="cmwap"
@@ -19433,7 +19433,7 @@
         type="default,supl"
     />
 
-    <apn carrier="?????? (China Mobile)"
+    <apn carrier="中国移动彩信 (China Mobile)"
         mcc="460"
         mnc="00"
         apn="cmwap"
@@ -19445,14 +19445,14 @@
         type="mms"
     />
 
-    <apn carrier="?3G????? (China Unicom)"
+    <apn carrier="沃3G连接互联网 (China Unicom)"
         mcc="460"
         mnc="01"
         apn="3gnet"
         type="default,supl"
     />
 
-    <apn carrier="?3G???? (China Unicom)"
+    <apn carrier="沃3G手机上网 (China Unicom)"
         mcc="460"
         mnc="01"
         apn="3gwap"
@@ -19461,7 +19461,7 @@
         type="default,supl"
     />
 
-    <apn carrier="???? (China Unicom)"
+    <apn carrier="联通彩信 (China Unicom)"
         mcc="460"
         mnc="01"
         apn="3gwap"
@@ -19471,14 +19471,14 @@
         type="mms"
     />
 
-    <apn carrier="???? (China Mobile) GPRS"
+    <apn carrier="中国移动 (China Mobile) GPRS"
         mcc="460"
         mnc="02"
         apn="cmnet"
         type="default,supl"
     />
 
-    <apn carrier="???? (China Mobile) WAP"
+    <apn carrier="中国移动 (China Mobile) WAP"
         mcc="460"
         mnc="02"
         apn="cmwap"
@@ -19487,7 +19487,7 @@
         type="default,supl"
     />
 
-    <apn carrier="?????? (China Mobile)"
+    <apn carrier="中国移动彩信 (China Mobile)"
         mcc="460"
         mnc="02"
         apn="cmwap"
@@ -19499,7 +19499,7 @@
         type="mms"
     />
 
-    <apn carrier="???? (China Telecom) ctlte"
+    <apn carrier="中国电信 (China Telecom) ctlte"
         mcc="460"
         mnc="03"
         apn="ctlte"
@@ -19507,7 +19507,7 @@
         type="default,hipri"
     />
 
-    <apn carrier="???? (China Telecom) GPRS"
+    <apn carrier="中国电信 (China Telecom) GPRS"
         mcc="460"
         mnc="03"
         apn="ctnet"
@@ -19517,7 +19517,7 @@
         user="ctnet@mycdma.cn"
     />
 
-    <apn carrier="???? (China Telecom) WAP"
+    <apn carrier="中国电信 (China Telecom) WAP"
         mcc="460"
         mnc="03"
         apn="ctwap"
@@ -19529,7 +19529,7 @@
         user="ctwap@mycdma.cn"
     />
 
-    <apn carrier="?????? (China Telecom)"
+    <apn carrier="中国电信彩信 (China Telecom)"
         mcc="460"
         mnc="03"
         apn="ctwap"
@@ -19543,14 +19543,14 @@
         user="ctwap@mycdma.cn"
     />
 
-    <apn carrier="???? (China Mobile) GPRS"
+    <apn carrier="中国移动 (China Mobile) GPRS"
         mcc="460"
         mnc="07"
         apn="cmnet"
         type="default,supl"
     />
 
-    <apn carrier="???? (China Mobile) WAP"
+    <apn carrier="中国移动 (China Mobile) WAP"
         mcc="460"
         mnc="07"
         apn="cmwap"
@@ -19559,7 +19559,7 @@
         type="default,supl"
     />
 
-    <apn carrier="?????? (China Mobile)"
+    <apn carrier="中国移动彩信 (China Mobile)"
         mcc="460"
         mnc="07"
         apn="cmwap"
@@ -19571,14 +19571,14 @@
         type="mms"
     />
 
-    <apn carrier="?3G????? (China Unicom)"
+    <apn carrier="沃3G连接互联网 (China Unicom)"
         mcc="460"
         mnc="09"
         apn="3gnet"
         type="default,supl"
     />
 
-    <apn carrier="?3G???? (China Unicom)"
+    <apn carrier="沃3G手机上网 (China Unicom)"
         mcc="460"
         mnc="09"
         apn="3gwap"
@@ -19588,7 +19588,7 @@
         type="default"
     />
 
-    <apn carrier="???? (China Unicom)"
+    <apn carrier="联通彩信 (China Unicom)"
         mcc="460"
         mnc="09"
         apn="3gwap"
@@ -19598,7 +19598,7 @@
         type="mms"
     />
 
-    <apn carrier="???? (China Telecom) ctlte"
+    <apn carrier="中国电信 (China Telecom) ctlte"
         mcc="460"
         mnc="11"
         apn="ctlte"
@@ -19606,7 +19606,7 @@
         type="default,hipri,supl"
     />
 
-    <apn carrier="???? (China Telecom) GPRS"
+    <apn carrier="中国电信 (China Telecom) GPRS"
         mcc="460"
         mnc="11"
         apn="ctnet"
@@ -19616,7 +19616,7 @@
         user="ctnet@mycdma.cn"
     />
 
-    <apn carrier="???? (China Telecom) WAP"
+    <apn carrier="中国电信 (China Telecom) WAP"
         mcc="460"
         mnc="11"
         apn="ctwap"
@@ -19628,9 +19628,9 @@
         user="ctwap@mycdma.cn"
     />
 
-<!-- Taiwan ?? -->
+<!-- Taiwan 台湾 -->
 
-    <apn carrier="?????? (China Telecom)"
+    <apn carrier="中国电信彩信 (China Telecom)"
         mcc="460"
         mnc="11"
         apn="ctwap"
@@ -19644,14 +19644,14 @@
         user="ctwap@mycdma.cn"
     />
 
-    <apn carrier="??????"
+    <apn carrier="遠傳網際網路"
         mcc="466"
         mnc="01"
         apn="internet"
         type="default,supl"
     />
 
-    <apn carrier="??????"
+    <apn carrier="遠傳影音訊息"
         mcc="466"
         mnc="01"
         apn="fetnet01"
@@ -19668,14 +19668,14 @@
         type="default,supl"
     />
 
-    <apn carrier="????(KGT-Online) (Internet)"
+    <apn carrier="和信電訊(KGT-Online) (Internet)"
         mcc="466"
         mnc="88"
         apn="internet"
         type="default,supl"
     />
 
-    <apn carrier="????(KGT-Online) (MMS)"
+    <apn carrier="和信電訊(KGT-Online) (MMS)"
         mcc="466"
         mnc="88"
         apn="kgtmms"
@@ -19716,14 +19716,14 @@
         type="default,supl,internet"
     />
 
-    <apn carrier="????(Chunghwa) (Internet)"
+    <apn carrier="中華電信(Chunghwa) (Internet)"
         mcc="466"
         mnc="92"
         apn="internet"
         type="default,supl"
     />
 
-    <apn carrier="????(Chunghwa) (MMS)"
+    <apn carrier="中華電信(Chunghwa) (MMS)"
         mcc="466"
         mnc="92"
         apn="emome"
@@ -19733,14 +19733,14 @@
         type="mms"
     />
 
-    <apn carrier="?????(TW Mobile) (Internet)"
+    <apn carrier="台灣大哥大(TW Mobile) (Internet)"
         mcc="466"
         mnc="93"
         apn="Internet"
         type="default,supl"
     />
 
-    <apn carrier="?????(TW Mobile) (MMS)"
+    <apn carrier="台灣大哥大(TW Mobile) (MMS)"
         mcc="466"
         mnc="93"
         apn="MMS"
@@ -19750,14 +19750,14 @@
         type="mms"
     />
 
-    <apn carrier="?????(TW Mobile) (Internet)"
+    <apn carrier="台灣大哥大(TW Mobile) (Internet)"
         mcc="466"
         mnc="97"
         apn="internet"
         type="default"
     />
 
-    <apn carrier="?????(TW Mobile) (MMS)"
+    <apn carrier="台灣大哥大(TW Mobile) (MMS)"
         mcc="466"
         mnc="97"
         apn="MMS"
@@ -19767,21 +19767,21 @@
         type="mms"
     />
 
-    <apn carrier="?????(TW Mobile) (twm)"
+    <apn carrier="台灣大哥大(TW Mobile) (twm)"
         mcc="466"
         mnc="97"
         apn="twm"
         type="default,supl"
     />
 
-    <apn carrier="?????(TW Mobile) (Internet)"
+    <apn carrier="台灣大哥大(TW Mobile) (Internet)"
         mcc="466"
         mnc="99"
         apn="Internet"
         type="default,supl"
     />
 
-    <apn carrier="?????(TW Mobile) (MMS)"
+    <apn carrier="台灣大哥大(TW Mobile) (MMS)"
         mcc="466"
         mnc="99"
         apn="mms"
@@ -21759,7 +21759,7 @@
         user="world"
     />
 
-    <apn carrier="Orange MMS R�union"
+    <apn carrier="Orange MMS Réunion"
         mcc="647"
         mnc="00"
         apn="orangerun.acte"
@@ -23134,7 +23134,7 @@
         user="vivo"
     />
 
-    <apn carrier="Amaz�niaC GPRS"
+    <apn carrier="AmazôniaC GPRS"
         mcc="724"
         mnc="24"
         apn="gprs.amazoniacelular.com.br"
@@ -23144,7 +23144,7 @@
         user="celular"
     />
 
-    <apn carrier="Amaz�niaC MMS"
+    <apn carrier="AmazôniaC MMS"
         mcc="724"
         mnc="24"
         apn="mmsgprs.amazoniacelular.com.br"
@@ -23964,7 +23964,7 @@
         user="mmsuy"
     />
 
-    <apn carrier="Movistar Emoci�n"
+    <apn carrier="Movistar Emoción"
         mcc="748"
         mnc="07"
         apn="webapn.movistar.com.uy"
