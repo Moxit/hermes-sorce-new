@@ -208,7 +208,8 @@ PRODUCT_PACKAGES += \
     autofmd \
     autofm \
     FMRadio \
-    MiraVision
+    MiraVision \
+    libMiraVision_jni
 
 PRODUCT_DEFAULT_PROPERTY_OVERRIDES := \
      ro.adb.secure=0 \
@@ -220,7 +221,7 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES := \
      ro.mount.fs=EXT4 \
      persist.service.acm.enable=0 \
      persist.sys.usb.config=mtp,mass_storage,adb \
-     persist.sys.timezone=Europe/Moscow
+     persist.sys.timezone=Asia/Shanghai
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.kernel.android.checkjni=0 \
