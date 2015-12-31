@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 ###################################################################################
-##### This Makefile include Google pure SUPPLICANT and MTK Turnkey SUPPLICANT #####
+#####                  This Makefile include Google pure SUPPLICANT                 #####
 ###################################################################################
 LOCAL_PATH := $(call my-dir)
 
@@ -71,3 +71,6 @@ include $(BUILD_STATIC_LIBRARY)
 ########################
 
 endif
+
+
+###########################################################################
