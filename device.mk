@@ -196,10 +196,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Stk
 
-# GPS
-PRODUCT_PACKAGES += \
-    YGPS
-
 PRODUCT_COPY_FILES += \
      $(LOCAL_PATH)/configs/agps_profiles_conf2.xml:system/etc/agps_profiles_conf2.xml \
 
